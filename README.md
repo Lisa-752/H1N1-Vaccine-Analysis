@@ -53,6 +53,7 @@ The data was collected from the National H1N1 Flu survey.
 
 ### Which group has the lowest vaccine uptake?
 1. **Distribution of Racial groups.**
+
 ![download](https://github.com/user-attachments/assets/91d1acf0-a539-46df-ad51-40336adf3742)
 - The distribution above shows how majority of the vaccinated individuals are of white racial group.
 
@@ -61,7 +62,35 @@ The data was collected from the National H1N1 Flu survey.
 - It is shown that `lzgpxyithas` the lowest vaccination range as compared to other regions. This shows vaccine access disparity in regions hence affecting vaccine coverage.
 
  ## Model
- - After thorough tuning of Hyperparameters.
+ - Data Preprocessing ie  resampling the highly imbalanced classes, feature selection, scaling, dropped columns, label encoding. The model's Hyperparameters were tuned to get the best parameters for the best results.
+ - Best Parameters for Random Forest using BayesSearch: OrderedDict([('max_depth', 18), ('max_features', 'sqrt'), ('min_samples_leaf', 1), ('min_samples_split', 3), ('n_estimators', 498)]) 
+
+- *Random Forest Evaluation Metrics:*
+  - Training time: 578.3828537464142 and prediction time: 0.7153973579406738 
+  - Accuracy: 0.8895 
+  - Precision: 0.9147 
+  - Recall: 0.8626 
+  - ROC-AUC: 0.9521
+- BayesSearchCV had the best out put as compared to the other hyperparameters. I took into consideration recall metric since that is what my main focus was on.
+`Recall: This measures how many actual positives were predicted correctly.`
+
+#### ROC-AUC cuve
+![download](https://github.com/user-attachments/assets/e439a82e-aac9-4606-86bc-60636721a055)
+`The ROC-AUC curve measures the ability of the model to correctly differentiate between classes.` So the chart above explains that the model has a 95% probability of being able to distinguish between the 2 classes (class 0: Not vaccinated, Class 1: vaccinated).
+
+#### Confusion matrix
+![download](https://github.com/user-attachments/assets/38607034-380b-4a72-a52b-77d31b323868)
+A confusion Matrix is used to evaluate the performance of a model by comparing the actual and the predicted class labels.
+
+#### Classification Matrix
+ precision    recall  f1-score   support
+
+           0       0.87      0.92      0.89      2985
+           1       0.91      0.86      0.89      3071
+
+    accuracy                           0.89      6056
+   macro avg       0.89      0.89      0.89      6056
+weighted avg       0.89      0.89      0.89      6056
 
 ## Conclusion.
 - **Influence of Behavioral and Attitudinal Factors:**
