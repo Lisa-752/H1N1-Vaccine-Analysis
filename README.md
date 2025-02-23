@@ -39,7 +39,7 @@ The data was collected from the National H1N1 Flu survey.
 ## Conclusion.
 **Influence of Behavioral and Attitudinal Factors:**
 
-- Behavioral risk factors, such as frequent hand-washing and avoiding large gatherings, are critical indicators that could be linked to an individual’s likelihood of receiving the H1N1 vaccine. Those who engage in these behaviors may have a higher level of health consciousness and may be more likely to accept preventive health measures, including vaccination.
+  - Behavioral risk factors, such as frequent hand-washing and avoiding large gatherings, are critical indicators that could be linked to an individual’s likelihood of receiving the H1N1 vaccine. Those who engage in these behaviors may have a higher level of health consciousness and may be more likely to accept preventive health measures, including vaccination.
 - Perceptions of vaccine efficacy and risk are strongly associated with vaccine decisions. Those who perceive the vaccine as more effective and view the risk of getting sick as higher are more likely to vaccinate. Conversely, those who worry about vaccine side effects, such as getting sick from the vaccine, tend to be less likely to receive it.
 **Role of Healthcare Practitioners:**
 
