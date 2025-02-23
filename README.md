@@ -76,7 +76,8 @@ The data was collected from the National H1N1 Flu survey.
 
 #### ROC-AUC cuve
 ![download](https://github.com/user-attachments/assets/e439a82e-aac9-4606-86bc-60636721a055)
-`The ROC-AUC curve measures the ability of the model to correctly differentiate between classes.` So the chart above explains that the model has a 95% probability of being able to distinguish between the 2 classes (class 0: Not vaccinated, Class 1: vaccinated).
+
+- `The ROC-AUC curve measures the ability of the model to correctly differentiate between classes.` So the chart above explains that the model has a 95% probability of being able to distinguish between the 2 classes (class 0: Not vaccinated, Class 1: vaccinated).
 
 #### Confusion matrix
 ![download](https://github.com/user-attachments/assets/38607034-380b-4a72-a52b-77d31b323868)
