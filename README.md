@@ -81,7 +81,8 @@ The data was collected from the National H1N1 Flu survey.
 
 #### Confusion matrix
 ![download](https://github.com/user-attachments/assets/38607034-380b-4a72-a52b-77d31b323868)
-A confusion Matrix is used to evaluate the performance of a model by comparing the actual and the predicted class labels.
+
+- A confusion Matrix is used to evaluate the performance of a model by comparing the actual and the predicted class labels.
 
 #### Classification Matrix
  | Class | Precision | Recall | F1-Score | Support |
