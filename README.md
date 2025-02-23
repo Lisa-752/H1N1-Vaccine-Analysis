@@ -83,14 +83,14 @@ The data was collected from the National H1N1 Flu survey.
 A confusion Matrix is used to evaluate the performance of a model by comparing the actual and the predicted class labels.
 
 #### Classification Matrix
- precision    recall  f1-score   support
+ | Class | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| 0     | 0.87      | 0.92   | 0.89     | 2985    |
+| 1     | 0.91      | 0.86   | 0.89     | 3071    |
+| **Accuracy** |           |        | **0.89**  | **6056**|
+| Macro avg | 0.89      | 0.89   | 0.89     | 6056    |
+| Weighted avg | 0.89      | 0.89   | 0.89     | 6056    |
 
-           0       0.87      0.92      0.89      2985
-           1       0.91      0.86      0.89      3071
-
-    accuracy                           0.89      6056
-   macro avg       0.89      0.89      0.89      6056
-weighted avg       0.89      0.89      0.89      6056
 
 ## Conclusion.
 - **Influence of Behavioral and Attitudinal Factors:**
