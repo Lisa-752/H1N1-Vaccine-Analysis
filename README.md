@@ -1,5 +1,5 @@
 # H1N1-Vaccine-Analysis.
-![Description of Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.islandkey.com%2Fto-put-pandemic-behind-them-get-COVID-vaccinations%2F10285852.html&psig=AOvVaw3Eqd-8eWoQ3ZACues2VmkZ&ust=1740415185186000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi4qvid2osDFQAAAAAdAAAAABAJ)
+![image](https://github.com/user-attachments/assets/f9d0bccc-281b-41a1-81d3-d3dbdabe351b)
 
 - Vaccine is a biological substance introduced to an individual that stimulates the immune system to recognize and fight specific pathogens without causing the disease itself.
 - Vaccination is an effective tool that plays a crucial role in public health in preventing the spread of a disease. However there are several factors that impact vaccination rates such as Vaccination accessibility, Socioeconomic factors, beliefs or opinions and etc.
