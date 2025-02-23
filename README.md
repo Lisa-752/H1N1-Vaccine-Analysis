@@ -33,8 +33,35 @@ The data was collected from the National H1N1 Flu survey.
 ![download](https://github.com/user-attachments/assets/374f8691-4e51-42dd-9289-7adb09a80b31)
 - The visualization above shows that majority of the individuals have not gotten the H1N1 Flu Vaccine.
 
-2. **
+2. **Assessing Behavior risk factors**
 ![download](https://github.com/user-attachments/assets/b59fbdd5-364a-4979-8077-04a827e5f166)
+- Behavioral factors such as hygiene(washing of hands), exposure avoidance influence vaccination rates. In the graph above, it illustrates how this behaviors encourage people from getting vaccinated. 
+
+### What influences individual vaccine decisions?
+1. **Estimate the relationship between Age and H1N1 vaccination.**
+![download](https://github.com/user-attachments/assets/7c4d0d11-fcfc-442f-a149-c2e27628c14c)
+- The graph above shows how the 55 – 64 yrs are the most vaccinated age group especially the females. They are obligated to get vaccinated since them and 65+ yrs will be highly affected with the disease causse of their low immunity.
+
+2. **Estimate how Opinion concerning the vaccine affects Vaccine Uptake.**
+![download](https://github.com/user-attachments/assets/ec472dc9-be99-4d74-81db-ad85c1c043b6)
+- This illustrates how opinion or perception influences individuals in making decision about getting vaccinated. For example the first barplot shows how majority off the individuals avoid the H1N1 vaccination since they perceive that the vaccine causes sickness. Nonetheless it is evident that the respondents have some knowledge that the H1N1 vaccine is effective and that without vaccination you are more more prone to the H1N1 flu.
+
+### How do Healthcare practitioners influence vaccine uptake?
+![download](https://github.com/user-attachments/assets/5aa8e406-f8cf-43ed-aea0-ab1c81cf9244)
+- The graph above illustrates that minority of the individuals got recommendation from the doctor, that majority of the recommended individuals got vaccinated.
+- Recommendation pays a vital role in vaccination decision of individuals.
+
+### Which group has the lowest vaccine uptake?
+1. **Distribution of Racial groups.**
+![download](https://github.com/user-attachments/assets/91d1acf0-a539-46df-ad51-40336adf3742)
+- The distribution above shows how majority of the vaccinated individuals are of white racial group.
+
+2. **Estimate vaccine coverage by Region.**
+![download](https://github.com/user-attachments/assets/e06f6d20-38ec-49fe-ac1c-998bca3d3d38)
+- It is shown that `lzgpxyithas` the lowest vaccination range as compared to other regions. This shows vaccine access disparity in regions hence affecting vaccine coverage.
+
+ ## Model
+ - After thorough tuning of Hyperparameters.
 
 ## Conclusion.
 - **Influence of Behavioral and Attitudinal Factors:**
