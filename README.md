@@ -27,4 +27,8 @@ The data was collected from the National H1N1 Flu survey.
 
 ## Data Analysis
 ### Are we reaching the protective vaccine coverage levels?
+1. **Identify individuals who have and have not received the H1N1 Vaccine**.
 ![download](https://github.com/user-attachments/assets/374f8691-4e51-42dd-9289-7adb09a80b31)
+- The visualization above shows that majority of the individuals have not gotten the H1N1 Flu Vaccine.
+
+
